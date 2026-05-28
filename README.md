@@ -44,7 +44,7 @@ TheTokenLauncher is a multi-chain token creation platform designed for founders,
 
 ## Launch a Token
 
-👉 https://thetokenlauncher.com/
+👉 https://www.thetokenlauncher.com/
 
 ## License
 
