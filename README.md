@@ -1,36 +1,31 @@
 # TheTokenLauncher
 
-![Solana](https://img.shields.io/badge/Solana-SPL_Tokens-9945FF)
-![Ethereum](https://img.shields.io/badge/Ethereum-ERC--20-627EEA)
-![BNB](https://img.shields.io/badge/BNB-BEP--20-F3BA2F)
+![BNB](https://img.shields.io/badge/BNB_Chain-BEP--20-F3BA2F)
+![Base](https://img.shields.io/badge/Base-ERC--20-0052FF)
 ![No Code](https://img.shields.io/badge/No_Code-Required-success)
-![Multi Chain](https://img.shields.io/badge/Multi--Chain-Supported-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-Create Solana (SPL), Ethereum (ERC-20) and BNB Smart Chain (BEP-20) tokens without writing code.
+Create BNB Smart Chain (BEP-20) and Base (ERC-20) tokens without writing code.
 
-TheTokenLauncher is a multi-chain token creation platform designed for founders, creators, communities, developers and meme coin projects. Launch tokens through a simple web interface without dealing with smart contract development, blockchain tooling or complex deployment processes.
+TheTokenLauncher is a token creation tool for founders, creators, communities and meme coin projects. You fill in a simple form, pay from your own wallet and the token is deployed in under 120 seconds. There is no smart contract code to write and no tooling to install.
 
 ## Features
 
-- Create Solana SPL tokens
-- Create Ethereum ERC-20 tokens
 - Create BNB Smart Chain BEP-20 tokens
+- Create Base ERC-20 tokens
 - No coding required
-- Upload token logos and metadata
-- Wallet-based payments
-- Fast deployment process
-- Mobile-friendly interface
-- Beginner-friendly workflow
-- Non-custodial architecture
+- Upload a token logo and metadata
+- Pay from your own wallet
+- Deployed in under 120 seconds
+- Works on mobile wallets
+- Non-custodial, you sign every transaction in your own wallet
 
 ## Supported Networks
 
 | Blockchain | Token Standard |
 |------------|---------------|
-| Solana | SPL |
-| Ethereum | ERC-20 |
 | BNB Smart Chain | BEP-20 |
+| Base | ERC-20 |
 
 ## Use Cases
 
@@ -38,13 +33,14 @@ TheTokenLauncher is a multi-chain token creation platform designed for founders,
 - Community tokens
 - Creator tokens
 - Startup projects
-- DAO launches
 - Proof-of-concept deployments
 - Educational blockchain projects
 
 ## Launch a Token
 
-👉 https://www.thetokenlauncher.com/
+- BNB token creator: https://www.thetokenlauncher.com/bnb-token-creator/
+- Base token creator: https://www.thetokenlauncher.com/base-token-creator/
+- Homepage: https://www.thetokenlauncher.com/
 
 ## License
 
